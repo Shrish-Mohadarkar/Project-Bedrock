@@ -1,9 +1,0 @@
-Project Descrition:
-
-Experian marketing service reported that a typical american spends a mean of 144 minutes(2.4 Hours) per day accesiing the internet via a mobile device. In order to test validity of the statement, you select a sample of 30 friends and family.The result for the time spent perday accessing the internet via mobile device in minuted is stored in InternetMobileTime
-
-Questions to be answered:
-
-1.Is there any evidence that the population mean time spent per day accessing the internet via mobile device is different from 144 minutes?Use the p-value approach and level of significance is 0.05
-
-2.What assumption about the population distributionis needed in order to conduct a t-test?
