@@ -1,1 +1,0 @@
-This folder contains projects which are developed strictly using R programming language(not involve machine learning)
