@@ -1,1 +1,1 @@
-ddsadsd
+This folder contains all projects which are developed using Python 3
